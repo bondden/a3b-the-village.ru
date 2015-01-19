@@ -4,7 +4,7 @@
 // @include     http://the-village.ru/*
 // @grant       none
 // @run-at      document-end
-// @version     0.1.3
+// @version     0.1.2
 // @downloadURL https://github.com/bondden/a3b-the-village.ru/raw/master/the-village.ru.user.js
 // @updateURL   https://github.com/bondden/a3b-the-village.ru/raw/master/the-village.ru.user.js
 // ==/UserScript==
